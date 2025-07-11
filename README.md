@@ -18,11 +18,14 @@ In this lab, we’re starting to work with Splunk, our first SIEM tool used in C
 ### Building a pie chart showing the top 5 video game genres
 <img src="https://github.com/user-attachments/assets/3b555d66-ec0a-42b1-88a2-b30e2219da10" width="600"/>
 
+---
 ### Changing the pie chart to show the top 5 video game platforms, and adding a top 5 video game genre bar graph
 <img src="https://github.com/user-attachments/assets/3f480248-9d68-4193-8bbb-2da8757766c5" width="600"/>
 
+---
 ### Building a bar graph showing the IPs of the top 10 failed login attempts
 <img src="https://github.com/user-attachments/assets/b8248812-ff3d-4b6b-a65a-76371c8d1e3b" width="600"/>
 
+---
 ### Scheduling a report to run every week for "Failed IPs" (the screenshot above)
 <img src="https://github.com/user-attachments/assets/70fbc0ab-be2a-40bb-8422-e71a970c4ed7" width="600"/>
