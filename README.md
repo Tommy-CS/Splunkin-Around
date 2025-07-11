@@ -1,4 +1,4 @@
-# Splunkin-Around
+# Splunkin Around
 In this lab, we’re starting to work with Splunk, our first SIEM tool used in CodePath. SIEM stands for Security Information and Event Management, and it helps us pull in data from different systems, analyze it, and create visualizations. This makes it easier to spot possible security threats. The goal was to practice analyzing system logs, running searches, and building dashboards to spot potential security issues. After completing this lab, I learned how to search through log data, build visualizations, and create dashboards and reports that help track cybersecurity events.
 
 ## Tools & Technologies Used
