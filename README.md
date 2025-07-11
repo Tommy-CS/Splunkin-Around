@@ -24,5 +24,5 @@ In this lab, we’re starting to work with Splunk, our first SIEM tool used in C
 ### Building a bar graph showing the IPs of the top 10 failed login attempts
 <img src="https://github.com/user-attachments/assets/b8248812-ff3d-4b6b-a65a-76371c8d1e3b" width="600"/>
 
-### Scheduling a report to run every week for "Failed Ips" (the screenshot above)
+### Scheduling a report to run every week for "Failed IPs" (the screenshot above)
 <img src="https://github.com/user-attachments/assets/70fbc0ab-be2a-40bb-8422-e71a970c4ed7" width="600"/>
